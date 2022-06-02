@@ -1,35 +1,14 @@
-.tc-mid-section-1 {
-  padding-top: 20;
-  border-top: 20;
-  height: 350px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 3em;
-  padding-top: 3em;
-}
-img {
-  vertical-align: middle;
-  width: 450px;
-  height: auto;
-}
-button a:visited {
-  color: #ffffff;
-}
-.btn-ct {
-  color: #ffffff;
-  cursor: pointer;
-  background-color: transparent;
+.hello-world-banner {
+    height: 300px;
+    width: 100%;
+    background: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1em;
 }
 
-.btn-lp {
-  background-color: #10724F;
-  overflow: visible;
-  font-family: inherit;
-  text-rendering: auto;
-  text-align: center;
-}
-.tc-section-blurb {
-  margin-bottom: 1em;
-  max-width: 500px;
+.hello-world {
+    font-size: 8em;
+    color: white;
 }
